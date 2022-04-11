@@ -4,7 +4,7 @@
 
     "description": "A Modular telegram bot.",
 
-    "repository": "https://github.com/Patrickhumai/Pyrogram-Bot",
+    "repository": "https://github.com/Devid176/easy",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
